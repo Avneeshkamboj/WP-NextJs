@@ -1,0 +1,246 @@
+{
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "bootstrap/dist/js/bootstrap": [
+    {
+      "id": "./node_modules/@popperjs/core/lib/createPopper.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/contains.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getBoundingClientRect.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getClippingRect.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getCompositeRect.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getComputedStyle.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getDocumentElement.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getDocumentRect.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getHTMLElementScroll.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getLayoutRect.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getNodeName.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getNodeScroll.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getOffsetParent.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getParentNode.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getScrollParent.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getViewportRect.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getWindow.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getWindowScroll.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/getWindowScrollBarX.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/instanceOf.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/isScrollParent.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/isTableElement.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/dom-utils/listScrollParents.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/enums.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/modifiers/applyStyles.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/modifiers/arrow.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/modifiers/computeStyles.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/modifiers/eventListeners.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/modifiers/flip.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/modifiers/hide.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/modifiers/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/modifiers/offset.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/modifiers/popperOffsets.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/modifiers/preventOverflow.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/popper-lite.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/popper.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/computeAutoPlacement.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/computeOffsets.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/debounce.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/detectOverflow.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/expandToHashMap.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/format.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/getAltAxis.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/getBasePlacement.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/getFreshSideObject.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/getMainAxisFromPlacement.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/getOppositePlacement.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/getOppositeVariationPlacement.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/getVariation.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/math.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/mergeByName.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/mergePaddingObject.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/orderModifiers.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/rectToClientRect.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/uniqueBy.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/validateModifiers.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@popperjs/core/lib/utils/within.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/bootstrap/dist/js/bootstrap.js",
+      "file": "static/chunks/0.js"
+    }
+  ]
+}
